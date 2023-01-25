@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @qleqs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Raqin Shikder
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
